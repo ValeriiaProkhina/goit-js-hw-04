@@ -1,5 +1,3 @@
-'use strict';
-
 function isEnoughCapacity(products, containerSize) {
   let quantityProducts = 0;
   const arrayProducts = Object.values(products);
